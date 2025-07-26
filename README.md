@@ -1,6 +1,8 @@
 # VdCallDump
 This tool can be used to dump `VdEra`/`VwEra` system call IDs from the Xbox ERA operating system.
 
+![](/screenshot.png)
+
 # Usage
 To dump system call IDs, pass the path of any of the following ERA system DLLs to VdCallDump:
 
